@@ -1,0 +1,18 @@
+body{
+    background-color: #3467ff;
+    font-family:cursive;
+    font-size:large;
+    text-align:center;
+}
+div#testerPanel, div#loginPanel{
+    background-color:pink;
+    border:5px solid #020b27;
+    border-radius:20px;
+    margin:20px  20%;
+    padding:10px;
+}
+input{
+    font-size:20pt;
+    padding:5px;
+    margin:5px;
+}
